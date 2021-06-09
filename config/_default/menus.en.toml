@@ -1,0 +1,26 @@
+[[main]]
+  identifier = "showcase"
+  name = "Projects"
+  url = "showcase"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "posts"
+  weight = 2
+
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 3
+
+  # [[main]]
+  # identifier = "pub"
+  # name = "Pub"
+  # url = "publication"
+  # weight = 4
+
+

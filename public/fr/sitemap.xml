@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.calil.tech/fr/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/posts/design-guidelines/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/posts/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/tags/css/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/tags/frontend/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/tags/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/tags/webdesign/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/tags/webdesign/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/tags/webdesign/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/about/</loc>
+    <lastmod>2021-05-12T14:31:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/fr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/series/"
+                />
+  </url>
+  
+</urlset>

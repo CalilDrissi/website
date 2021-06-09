@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Calil Sur La Toile</title>
+    <link>http://www.calil.tech/fr/</link>
+    <description>Recent content on Calil Sur La Toile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>reach@calil.tech (Calil Drissi)</managingEditor>
+    <webMaster>reach@calil.tech (Calil Drissi)</webMaster>
+    <copyright>Calil Drissi ©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 May 2021 23:04:59 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.calil.tech/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title> Les Principes Canoniques Du Web Design </title>
+        <link>http://www.calil.tech/fr/posts/design-guidelines/</link>
+        <pubDate>Thu, 13 May 2021 23:04:59 +0000</pubDate>
+        <author>reach@calil.tech (Calil Drissi)</author>
+        <atom:modified>Thu, 13 May 2021 23:04:59 +0000</atom:modified>
+        <guid>http://www.calil.tech/fr/posts/design-guidelines/</guid>
+        <description>Good web design involves more than an esthetically pleasing appearance. Luckily, there are some nearly universal rules of that can help.This article will teach you how to follow the ten rules of thumb in your design work so you can further improve the usability, utility, and desirability of your designs.
+Know Your User and Their Needs a website is only as good as the user’s experience. In a way, this seems obvious.</description>
+        
+        <dc:creator>Calil</dc:creator>
+        <media:content url="http://www.calil.tech/images/feature1/design-principles.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>FrontEnd</category>
+            
+          
+            
+              <category>Css</category>
+            
+          
+            
+              <category>Webdesign</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Calil On The Web</title>
+    <link>http://www.calil.tech/</link>
+    <description>Recent content on Calil On The Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>reach@calil.tech (Calil Drissi)</managingEditor>
+    <webMaster>reach@calil.tech (Calil Drissi)</webMaster>
+    <copyright>Calil Drissi ©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 May 2021 23:04:59 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.calil.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>My Web Development Process</title>
+        <link>http://www.calil.tech/posts/dev-process/</link>
+        <pubDate>Thu, 13 May 2021 23:04:59 +0000</pubDate>
+        <author>reach@calil.tech (Calil Drissi)</author>
+        <atom:modified>Thu, 13 May 2021 23:04:59 +0000</atom:modified>
+        <guid>http://www.calil.tech/posts/dev-process/</guid>
+        <description>Quick Introduction: One of the biggest ‘chicken or egg’ debates in the world of web when designing a website has to be content or design – which comes first? Is it best to create original content and design around it or should a compelling design be created and then see where the content can fit? Process of Approaching a new website When embarking on a new website project, designers tend to focus on the aesthetics and functionality of their work.</description>
+        
+        <dc:creator>Calil Drissi</dc:creator>
+        <media:content url="http://www.calil.tech/images/feature1/content-first.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>WebDesign</category>
+            
+          
+        
+        
+          
+            
+              <category>Front End</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.calil.tech/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/categories/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/categories/front-end/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/posts/dev-process/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/posts/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/tags/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/tags/webdesign/</loc>
+    <lastmod>2021-05-13T23:04:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/tags/webdesign/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/tags/webdesign/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/about/</loc>
+    <lastmod>2021-05-12T14:31:01+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/ai/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/blockchain/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/chrome/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/cli/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/desktop/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/games/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/iot/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/mobile/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/web/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.calil.tech/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.calil.tech/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.calil.tech/series/"
+                />
+  </url>
+  
+</urlset>

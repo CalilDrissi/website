@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Calil On The Web</title>
+    <link>http://www.calil.tech/categories/</link>
+    <description>Recent content in Categories on Calil On The Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>reach@calil.tech (Calil Drissi)</managingEditor>
+    <webMaster>reach@calil.tech (Calil Drissi)</webMaster>
+    <copyright>Calil Drissi ©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 May 2021 23:04:59 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.calil.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Front End</title>
+        <link>http://www.calil.tech/categories/front-end/</link>
+        <pubDate>Thu, 13 May 2021 23:04:59 +0000</pubDate>
+        <author>reach@calil.tech (Calil Drissi)</author>
+        
+        <guid>http://www.calil.tech/categories/front-end/</guid>
+        <description></description>
+        
+        <dc:creator>Calil Drissi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
