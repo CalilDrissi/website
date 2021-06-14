@@ -5,13 +5,12 @@ date : 2021-05-13T23:04:59Z
 author : "Calil Drissi"
 tags : ["WebDesign"]
 image: images/feature1/html.svg
-authorImage: /images/whoami/faded.jpeg
+authorImage: /images/whoami/author-3.jpg
 categories:
 - Front End
 draft: false
 enableToc: true
 enableTocContent: false
-authorEmoji: 🎅
 pinned: false
 ---
 

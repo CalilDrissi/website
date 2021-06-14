@@ -7,6 +7,7 @@ link: https://github.com/zzossig/hugo-theme-zzo
 repo: https://github.com/zzossig/hugo-theme-zzo
 pinned: true # appreared on a overview page.
 thumb: feature3/giphy.gif # relative path in static/images
+draft: true
 links:
 - name:  brief
   icon:  download
